@@ -44,6 +44,8 @@ though).
 
 * Some sort of (sweet?) lupin
 * _Lathyrus latifolius_ (perennial sweet pea)
+* _Medicago sativa_ (alfalfa / lucerne)
+* _Melilotus sp._ (Melilot) (is it perennial?)
 
 ## Rosaceae
 
