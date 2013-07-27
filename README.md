@@ -14,11 +14,17 @@ Practical good. Edible good. Perennial good.
 # Future
 
 More families could be included: Brassicaceae, Asteraceae,
-Fabaceae, Apiaceae, Rosaceae, Verbenaceae. Some suggestions:
+Fabaceae, Apiaceae, Rosaceae, Verbenaceae. Would be good to
+identify 3 or 4 candidate species in each family.
+
+Some suggestions:
 
 ## Apiaceae
 
 * _Myrrhis odorata_ (sweet cicely)
+* _Foeniculum vulgare_ (fennel)
+* _Levisticum officinale_ (lovage)
+* _Eryngium maritimum_ (sea holly)
 
 ## Asteraceae
 
@@ -28,4 +34,17 @@ Fabaceae, Apiaceae, Rosaceae, Verbenaceae. Some suggestions:
 
 ## Brassicaceae
 
+Difficult to find perennial species (lots of edible annuals
+though).
+
 * _Armoracia rusticana_ (horseradish)
+* _Aubrieta deltoidea_ (purple rock cress)
+
+## Fabaceae
+
+* Some sort of (sweet?) lupin
+* _Lathyrus latifolius_ (perennial sweet pea)
+
+## Rosaceae
+
+* _Sanguisorba officinalis_ (salad burnet)
