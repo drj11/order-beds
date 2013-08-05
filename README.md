@@ -50,3 +50,4 @@ though).
 ## Rosaceae
 
 * _Sanguisorba officinalis_ (salad burnet)
+* _Filipendula ulmaria_ (meadowsweet)
